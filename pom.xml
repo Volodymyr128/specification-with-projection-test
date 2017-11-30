@@ -30,6 +30,12 @@
             <version>1.4.196</version>
         </dependency>
 
+        <dependency>
+            <groupId>th.co.geniustree.springdata.jpa</groupId>
+            <artifactId>specification-with-projections</artifactId>
+            <version>1.0.5</version>
+        </dependency>
+
         <!--TEST-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
